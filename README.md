@@ -1,5 +1,1 @@
-{
-  "scripts": {"dev":"vite","build":"vite build","preview":"vite preview"},
-  "dependencies": {"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","@supabase/supabase-js":"latest"},
-  "devDependencies": {}
-}
+<!doctype html><html lang="de"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/><meta name="theme-color" content="#facc15"/><title>MHD Kontrolle</title></head><body><div id="root"></div><script type="module" src="/src/main.jsx"></script></body></html>
